@@ -6,7 +6,7 @@ age = 15
 height1 = 157.48
 countries_visit = ['Germany', 'France', 'United Kingdom']
 student_type = False
-student_info = {'color': 'Lavender','car_brand': 'BYD','shoe_size':8,'best_friend': 'Elise'}
+student_info = {'color': 'Lavender','car_brand': 'BYD','shoe_size':8,'best_friend': 'Elijah'}
 favorite_fruits = {'Lychee','Kiwi', 'Rambutan', 'Mango', 'Melon'}
 days = ('Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday')
 
@@ -20,7 +20,8 @@ display(type(favorite_fruits), target='result')
 display(type(days), target='result')
 
 document.getElementById('result').innerHTML = f'''
-<h2>My Python Variables</h2>
+
+<h2>About Me, Myself, & I</h2>
 
 <p><b>Name:</b> {_name}</p>
 <p><b>Age:</b> {age}</p>
