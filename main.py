@@ -6,7 +6,7 @@ age = 15
 height1 = 157.48
 countries_visit = ['Germany', 'France', 'United Kingdom']
 student_type = False
-student_info = {'color': 'Lavender','car_brand': 'BYD','shoe_size':8,'best_friend': 'Elijah'}
+student_info = {'color': 'Lavender','car_brand': 'BYD','shoe_size':8,'best_friend': 'Elijah Mae'}
 favorite_fruits = {'Lychee','Kiwi', 'Rambutan', 'Mango', 'Melon'}
 days = ('Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday')
 
